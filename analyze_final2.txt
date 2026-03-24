@@ -1,0 +1,5 @@
+Analyzing attend_marker...                                      
+
+  error - The named parameter 'mainAxisSize' isn't defined - lib\screens\schedule_screen.dart:831:21 - undefined_named_parameter
+  error - The named parameter 'children' isn't defined - lib\screens\schedule_screen.dart:832:21 - undefined_named_parameter
+

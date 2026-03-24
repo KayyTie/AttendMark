@@ -1,0 +1,13 @@
+  ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+     FLUTTER LAUNCHER ICONS (v0.13.1)                               
+  ÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉÔòÉ
+  
+
+ÔÜá Warning: flutter_icons has been deprecated please use flutter_launcher_icons instead in your yaml files
+ÔÇó Creating default icons Android
+ÔÇó Overwriting the default Android launcher icon with a new icon
+ÔÇó Overwriting default iOS launcher icon with new icon
+
+Ô£ò Could not generate launcher icons
+PathNotFoundException: Cannot open file, path = 'ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png' (OS Error: The system cannot find the path specified.
+, errno = 3)

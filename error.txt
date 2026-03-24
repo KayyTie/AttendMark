@@ -1,0 +1,4 @@
+Analyzing attend_marker...                                      
+
+  error - Expected to find ')' - lib\screens\schedule_screen.dart:871:18 - expected_token
+

@@ -1,0 +1,9 @@
+Analyzing attend_marker...                                      
+
+warning - Unused import: 'package:provider/provider.dart' - lib\screens\onboarding\timetable_setup_screen.dart:2:8 - unused_import
+warning - Unused import: '../../providers/app_state.dart' - lib\screens\onboarding\timetable_setup_screen.dart:3:8 - unused_import
+  error - The property 'subjectId' can't be unconditionally accessed because the receiver can be 'null' - lib\screens\statistics_screen.dart:221:54 - unchecked_use_of_nullable_value
+  error - The property 'id' can't be unconditionally accessed because the receiver can be 'null' - lib\screens\statistics_screen.dart:228:58 - unchecked_use_of_nullable_value
+  error - The property 'id' can't be unconditionally accessed because the receiver can be 'null' - lib\screens\statistics_screen.dart:302:48 - unchecked_use_of_nullable_value
+  error - Expected a method, getter, setter or operator declaration - lib\screens\statistics_screen.dart:597:1 - expected_executable
+
